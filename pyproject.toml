@@ -8,4 +8,4 @@ authors = [{name = "ganesh", email = "gkusalkar85@gmail.com"}]
 packages = {find = {}}
 
 [tool.setuptools.dynamic]
-dependencies = {file = "requirements.txt"}
+dependencies = {file = "requirements.txt"} 
