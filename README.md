@@ -1,2 +1,2 @@
-# vehicalinsurance_88
-vehical insurance
+# vehicleinsurance_88
+vehicle insurance
